@@ -21,3 +21,4 @@ tar -xvf apache-tomcat-8.5.30.tar.gz
 cd apache-tomcat-8.5.30/bin
 
 sh startup.sh
+hi this for test only
